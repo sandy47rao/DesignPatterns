@@ -1,0 +1,2 @@
+# DesignPatterns
+Abstract Design Pattern
